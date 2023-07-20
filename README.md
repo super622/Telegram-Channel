@@ -8,11 +8,11 @@
   <table>  
     <tr>  
       <td align="center">  
-        <a href="https://t.me/hao123suo">  
-          <img src="./img/search_logo_05.png" width="345px;" />  
+        <a href="https://t.me/superSearcher">  
+          <img src="./img/tg搜索.png" width="345px;" />  
         </a>  
         <br />  
-        <a href="https://t.me/hao123suo">全网资源</a>  
+        <a href="https://t.me/superSearcher">官方导航</a>  
       </td>  
       <td align="center">  
         <a href="https://t.me/zhizunmojie">  
