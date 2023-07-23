@@ -49,6 +49,7 @@ Telegram 官网 : [https://telegram.org/](https://telegram.org/)
   
 | 图标                                                        | 名称             | 链接                          |  
 |:---------------------------------------------------------:|:--------------:| --------------------------- |  
+| <img  src="./img/zeo_shijue_logo.png" alt="图片" width="50"> | **00后视觉盛宴**   | https://t.me/zeodogs      |  
 | <img  src="./img/search_logo_05.png" alt="图片" width="50"> | **hao123搜索**   | https://t.me/hao123suo      |  
 | <img  src="./img/hao联盟.png" alt="图片" width="50">          | **Hao联盟资源**    | https://t.me/goSearcher     |  
 | <img  src="./img/tg搜索.png" alt="图片" width="50">           | **友盟导航**       | https://t.me/superSearcher  |  
