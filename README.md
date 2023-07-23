@@ -49,10 +49,10 @@ Telegram 官网 : [https://telegram.org/](https://telegram.org/)
   
 | 图标                                                        | 名称             | 链接                          |  
 |:---------------------------------------------------------:|:--------------:| --------------------------- |  
-| <img  src="./img/zeo_shijue_logo.png" alt="图片" width="50"> | **00后视觉盛宴**   | https://t.me/zeodogs      |   
+| <img  src="./img/zeo_shijue_logo.png" alt="图片" width="50"> | **视觉盛宴**   | https://t.me/zeodogs      |   
 | <img  src="./img/tg搜索.png" alt="图片" width="50">           | **友盟导航**       | https://t.me/superSearcher  | 
 | <img  src="./img/sexy_icon.jpg" alt="图片" width="50">      | **全国资源**       | https://t.me/baipiaojianzhi |  
-| <img  src="./img/mojie_icon.png" alt="图片" width="50">      | **戴上魔戒 你将拥有力量 魔戒VPN 一元VPN**       | https://t.me/zhizunmojie |  
+| <img  src="./img/mojie_icon.png" alt="图片" width="50">      | **一元VPN**       | https://t.me/zhizunmojie |  
   
 #### 地区群组  
 
