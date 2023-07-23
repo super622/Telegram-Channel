@@ -49,17 +49,8 @@ Telegram 官网 : [https://telegram.org/](https://telegram.org/)
   
 | 图标                                                        | 名称             | 链接                          |  
 |:---------------------------------------------------------:|:--------------:| --------------------------- |  
-| <img  src="./img/zeo_shijue_logo.png" alt="图片" width="50"> | **00后视觉盛宴**   | https://t.me/zeodogs      |  
-| <img  src="./img/search_logo_05.png" alt="图片" width="50"> | **hao123搜索**   | https://t.me/hao123suo      |  
-| <img  src="./img/hao联盟.png" alt="图片" width="50">          | **Hao联盟资源**    | https://t.me/goSearcher     |  
-| <img  src="./img/tg搜索.png" alt="图片" width="50">           | **友盟导航**       | https://t.me/superSearcher  |  
-| <img  src="./img/神马搜索.png" alt="图片" width="50">           | **神马资源**       | https://t.me/shmaSearcher   |  
-| <img  src="./img/超级搜索.png" alt="图片" width="50">           | **超级搜索**       | https://t.me/suotianxia     |  
-| <img  src="./img/search_zh.png" alt="图片" width="50">      | **TG导航**       | https://t.me/tianxiasou     |  
-| <img  src="./img/search_logo_04.png" alt="图片" width="50"> | **TG百度**       | https://t.me/tgbaiduer      |  
-| <img  src="./img/联盟Google搜索.png" alt="图片" width="50">     | **中文谷歌**       | https://t.me/zhongwengoogle |  
-| <img  src="./img/搜索AV.png" alt="图片" width="50">           | **搜片神器**       | https://t.me/quanqiusouer   |  
-| <img  src="./img/联盟搜索.png" alt="图片" width="50">           | **电报联盟**       | https://t.me/quanwangsouer  |  
+| <img  src="./img/zeo_shijue_logo.png" alt="图片" width="50"> | **00后视觉盛宴**   | https://t.me/zeodogs      |   
+| <img  src="./img/tg搜索.png" alt="图片" width="50">           | **友盟导航**       | https://t.me/superSearcher  | 
 | <img  src="./img/sexy_icon.jpg" alt="图片" width="50">      | **全国资源**       | https://t.me/baipiaojianzhi |  
 | <img  src="./img/mojie_icon.png" alt="图片" width="50">      | **戴上魔戒 你将拥有力量 魔戒VPN 一元VPN**       | https://t.me/zhizunmojie |  
   
